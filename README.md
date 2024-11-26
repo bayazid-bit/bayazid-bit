@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MD. Bayazid (aka **bayazid-bit**)  
 
-🎯 **Aspiring White Hat Hacker | Programmer | Cybersecurity Enthusiast | Electronics Enthusiast**  
+🎯 **Aspiring White Hat Hacker | Programmer | Cybersecurity Enthusiast | Electronics Engineer **  
 🌱 I love learning and creating tools to protect and empower!  
 
 ---
