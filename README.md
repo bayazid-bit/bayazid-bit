@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 - 💻 **Languages I know:**  
-  - Python, C (recently started), exploring Assembly.  
+  - Python, C, exploring Assembly.  
 - 🔧 **Tools/Projects:**  
   - 🛠 **FTPFIRE**: An FTP brute force tool for ethical hacking ([View Project](https://github.com/bayazid-bit/FTPFIRE)).  
   - 🔒 **Klock**: A PDF password cracker I built to learn security concepts.  
