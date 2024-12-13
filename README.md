@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-- 💻 **Languages I know:**  
+- 💻 **Languages I Mostly Use:**  
   - Python, C, exploring Assembly.  
 - 🔧 **Tools/Projects:**  
   - 🛠 **FTPFIRE**: An FTP brute force tool for ethical hacking ([View Project](https://github.com/bayazid-bit/FTPFIRE)).  
