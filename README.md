@@ -1,7 +1,11 @@
 # 👋 Hi, I'm MD. Bayazid (aka **bayazid-bit**)  
 
-🎯 **Aspiring White Hat Hacker | Programmer | Cybersecurity Enthusiast | Electronics Engineer **  
+🎯 **Aspiring White Hat Hacker | Programmer | Cybersecurity Enthusiast | Electronics Engineer**  
 🌱 I love learning and creating tools to protect and empower!  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayazid-bit&label=Profile%20views&color=0e75b6&style=flat" alt="bayazid-bit" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayazid-bit" alt="bayazid-bit" /></a> </p>
 
 ---
 
@@ -24,18 +28,17 @@
 
 ---
 
-## 💡 What I Believe In  
-> _"The best way to predict the future is to create it."_  
-As an aspiring **white hat hacker**, my goal is to become the world's most powerful ethical hacker to safeguard systems against malicious threats.  
-
----
-
 ## 📂 My GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayazid-bit&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayazid-bit&layout=compact&theme=radical)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayazid-bit&show_icons=true&locale=en&layout=compact&theme=radical" alt="bayazid-bit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bayazid-bit&show_icons=true&locale=en&theme=radical" alt="bayazid-bit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bayazid-bit&theme=radical" alt="bayazid-bit" /></p>
 
 ---
 
 ## 📫 Let's Connect  
-- **GitHub:** [bayazid-bit](https://github.com/bayazid-bit)  
-- **Email:** [bayazid.mtu@gmail.com] 
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+<a href="mailto:bayazid.mtu@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" height="30" width="30" /></a>
+</p>
