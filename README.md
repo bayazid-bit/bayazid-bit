@@ -1,44 +1,69 @@
-# 👋 Hi, I'm MD. Bayazid (aka **bayazid-bit**)  
+<br clear="both">
 
-🎯 **Aspiring White Hat Hacker | Programmer | Cybersecurity Enthusiast | Electronics Engineer**  
-🌱 I love learning and creating tools to protect and empower!  
+<h2 align="center">Hi 👋! My name is MD.Bayazid and I'm a passionate Programmer , ethical-hacker from Bangladesh</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayazid-bit&label=Profile%20views&color=0e75b6&style=flat" alt="bayazid-bit" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayazid-bit" alt="bayazid-bit" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bayazid-bit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayazid-bit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 🚀 About Me  
-- 💻 **Languages I Mostly Use:**  
-  - Python, C, exploring Assembly.  
-- 🔧 **Tools/Projects:**  
-  - 🛠 **FTPFIRE**: An FTP brute force tool for ethical hacking ([View Project](https://github.com/bayazid-bit/FTPFIRE)).  
-  - 🔒 **Klock**: A PDF password cracker I built to learn security concepts.  
-  - 🖥 **Simple Algorithms**: Check out my first algorithm and coding experiments!  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+</div>
 
-- 🌐 **OS I work with:**  
-  - Parrot OS, Kali linux.  
-- 📚 **Learning:**  
-  - Networking, 8086 Assembly, GUI development, and beyond.  
-- ⚡ **Electronics Skills:**  
-  - Working with basic electronic circuits, sensors, and components.  
-  - Learning microcontroller programming (Arduino, etc.) using virtual simulators like Tinkercad and Proteus.  
-  - Interested in designing circuits and building simple devices from recycled electronic parts.
+###
 
----
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
-## 📂 My GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bayazid-bit&show_icons=true&locale=en&layout=compact&theme=radical" alt="bayazid-bit" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bayazid-bit&show_icons=true&locale=en&theme=radical" alt="bayazid-bit" /></p>
+<br clear="both">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bayazid-bit&theme=radical" alt="bayazid-bit" /></p>
+<img src="https://raw.githubusercontent.com/bayazid-bit/bayazid-bit/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-## 📫 Let's Connect  
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="mailto:bayazid.mtu@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" height="30" width="30" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bayazid-bit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayazid-bit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
