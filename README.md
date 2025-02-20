@@ -18,7 +18,7 @@
   - 🖥 **Simple Algorithms**: Check out my first algorithm and coding experiments!  
 
 - 🌐 **OS I work with:**  
-  - Parrot OS (currently in live mode).  
+  - Parrot OS, Kali linux.  
 - 📚 **Learning:**  
   - Networking, 8086 Assembly, GUI development, and beyond.  
 - ⚡ **Electronics Skills:**  
