@@ -61,3 +61,6 @@
 </picture>
 
 ###
+
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=bayazid-bit&color=blue)
